@@ -85,3 +85,8 @@ print(rdrp.search('look'))
 # search() = 문자열 전체를 검색하여 정규식과 매치되는지 조사.
 # findall() = 정규식과 매치되는 모든 문자열을 리스트로 반환.
 # finditer() = 정규식과 매치되는 모든 문자열을 반복 가능한 객체로 반환.
+
+# 참고
+# https://docs.python.org/ko/3/howto/regex.html
+# https://wikidocs.net/21703
+# https://spidyweb.tistory.com/373
